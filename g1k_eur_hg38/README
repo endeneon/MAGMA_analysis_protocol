@@ -1,1 +1,5 @@
-This file set is a merged version of the original plink file data set provided on https://alkesgroup.broadinstitute.org/LDSCORE/GRCh38/plink.tgz with all chromosomes (1-22) merged using command plink --merge-list mergelist.txt --make-bed --out g1k_eur_hg38
+Download the original plink file data set provided on https://alkesgroup.broadinstitute.org/LDSCORE/GRCh38/plink.tgz
+Untar the file use command tar zxvf plink.tgz
+Download and install plink 1.9 from https://www.cog-genomics.org/plink/ or from Anaconda;
+Copy the associated make_merged_plink_set.sh file into the untared plink_files folder;
+Execute bash mkae_merged_plink_set.sh
