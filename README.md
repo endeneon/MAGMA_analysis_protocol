@@ -1,0 +1,1 @@
+# MAGMA_analysis_protocol
