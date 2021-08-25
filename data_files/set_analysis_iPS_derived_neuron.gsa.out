@@ -1,0 +1,9 @@
+# TOTAL_GENES = 53100
+# TEST_DIRECTION = one-sided, positive (set), two-sided (covar)
+# CONDITIONED_INTERNAL = gene size, gene density, sample size, inverse mac, log(gene size), log(gene density), log(sample size), log(inverse mac)
+VARIABLE      TYPE  NGENES         BETA     BETA_STD           SE            P
+DA             SET     140      0.30548     0.015665     0.073957   1.8129e-05
+GABA           SET     112      0.28623     0.013132     0.083765   0.00031681
+Glut           SET     142      0.35332     0.018247     0.074183   9.5726e-07
+NPC            SET      73      0.40084     0.014852      0.10638   8.2356e-05
+iPS            SET     735     0.030176    0.0035256     0.030924      0.16458
