@@ -1,0 +1,4 @@
+This folder includes the following files:
+A revised version of gene location file (Gene_Loc_File) containing gene symbols instead of NCBI Gene ids in the ID column (REV.NCBI37.3.gene.loc);
+A gene set file (SET_Annot_File) using gene symbol for gene set analysis with standard MAGMA (miR137_gene_set_list_4_magma.txt);
+A gene set file (SET_Annot_File) using ENSEMBL gene id for gene set analysis with H-MAGMA (miR137_ENSEMBLID_set_list_4_magma.txt);
