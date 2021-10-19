@@ -12,8 +12,8 @@ parallel magma \
 	--batch {} 8 \
 	--bfile $Data_File \
 	--gene-annot $Annot_File \
-	-- gene-model snp-wise=mean \
-	-- pval $SNP_Pval_File ncol=Nca \
+	--gene-model snp-wise=mean \
+	--pval $SNP_Pval_File ncol=Nca \
 	--out temp_annot/$Output_Prefix \
 	::: {1..8}
 
