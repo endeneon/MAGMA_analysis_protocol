@@ -1,4 +1,4 @@
-Download the original plink file data set provided on https://alkesgroup.broadinstitute.org/LDSCORE/GRCh38/plink.tgz
+Download the original plink file data set provided on https://alkesgroup.broadinstitute.org/LDSCORE/GRCh38/plink_files.tgz
 Untar the file use command tar zxvf plink.tgz
 Download and install plink 1.9 from https://www.cog-genomics.org/plink/ or from Anaconda;
 Copy the associated make_merged_plink_set.sh file into the untared plink_files folder;
